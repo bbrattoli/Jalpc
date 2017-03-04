@@ -25,7 +25,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: "I'm a passionate reseacher in Computer vision and Machine learning. Currently I'm working for my PhD for Professor Ommer in the CompVis group (HCI, Heidelberg University, Germany)."
+  desc: "I'm a reseacher in Computer vision and Machine learning. Currently I'm working as PhD for Professor Ommer in the CompVis group (HCI, Heidelberg University, Germany)."
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
