@@ -18,7 +18,7 @@ author:  # change following line to your infomation.
   email: biagio.brattoli@gmail.com  # Leave blank if you don't have now
   facebook_username: # Leave blank if you don't have now
   github_username: bbrattoli  # Leave blank if you don't have now
-  avatar: /static/assets/img/landing/profile.png  # upload your avatar at directory and edit it.
+  avatar: /static/assets/img/landing/profile-small.png  # upload your avatar at directory and edit it.
   skill_icon1:
     - name: icon-apache
     - name: fa-linux
