@@ -15,7 +15,7 @@
   icon: fa-plus-square
 
 - name:
-    detail: Tobii (Stockolm, Sweden)
+    detail: Tobii, Stockholm, Sweden
     i18n: company_b
   desc:
     detail: Hand gesture classification by Deep learning using infrared camera
@@ -29,7 +29,7 @@
   icon: fa-plus-square
 
 - name:
-    detail: Royal Institute of Technology, Stockolm, Sweden
+    detail: Royal Institute of Technology, Stockholm, Sweden
     i18n: company_b
   desc:
     detail: 
