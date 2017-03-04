@@ -10,22 +10,22 @@ url: http://bbrattoli.github.io/homepage #/Jalpc  # url should be changed to 'ht
 img_path: /homepage/static/assets/img/blog  # url should be changed to '/homepage/static/assets/img/blog' as before
 
 # author -- index page "about me" section
-author: Biagio Brattoli # change following line to your infomation.
-name: Biagio  # Be used at blog posts' author.
-first_name: Biagio  # Be used at index page about me section.
-last_name: Brattoli  # Be used at index page about me section.
-cv:  # A online CV can be printed as PDF, leave blank if you don't have now
-email: biagio.brattoli@gmail.com  # Leave blank if you don't have now
-facebook_username: # Leave blank if you don't have now
-github_username: bbrattoli  # Leave blank if you don't have now
-avatar: /homepage/static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
-skill_icon1:
+author: #Biagio Brattoli # change following line to your infomation.
+  name: Biagio  # Be used at blog posts' author.
+  first_name: Biagio  # Be used at index page about me section.
+  last_name: Brattoli  # Be used at index page about me section.
+  cv:  # A online CV can be printed as PDF, leave blank if you don't have now
+  email: biagio.brattoli@gmail.com  # Leave blank if you don't have now
+  facebook_username: # Leave blank if you don't have now
+  github_username: bbrattoli  # Leave blank if you don't have now
+  avatar: /homepage/static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
+  skill_icon1:
     - name: icon-apache
     - name: fa-linux
-skill_icon2:
+  skill_icon2:
     - name: fa-linux
     - name: icon-apache
-desc: "I'm a passionate reseacher in Computer vision and Machine learning. Currently I'm working for my PhD for Professor Ommer in the CompVis group (HCI, Heidelberg University, Germany)."
+  desc: "I'm a passionate reseacher in Computer vision and Machine learning. Currently I'm working for my PhD for Professor Ommer in the CompVis group (HCI, Heidelberg University, Germany)."
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
