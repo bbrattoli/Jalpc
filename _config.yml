@@ -4,8 +4,8 @@
 title: Biagio Brattoli
 description: My website
 keywords: biagio,brattoli,computer,vision,science,machine,learning,heidelberg,university,PhD,deeplearning
-baseurl:  # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
-url: http://bbrattoli.github.io  # url should be changed to 'http://www.jack003.com/homepage' as before
+baseurl: /Jalpc # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
+url: http://bbrattoli.github.io/Jalpc  # url should be changed to 'http://www.jack003.com/homepage' as before
 # url: http://127.0.0.1:4000
 img_path: /Jalpc/static/assets/img/blog  # url should be changed to '/homepage/static/assets/img/blog' as before
 
