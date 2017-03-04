@@ -28,17 +28,86 @@
     i18n: company_b_job
   icon: fa-plus-square
 
-
 - name:
-    detail: Tobii (Stockolm, Sweden)
+    detail: Royal Institute of Technology, Stockolm, Sweden
     i18n: company_b
   desc:
-    detail: Hand gesture classification by Deep learning using infrared camera
+    detail: 
     i18n: company_b_desc
   date:
-    detail: Sept. 2014 - March 2015
+    detail: Aug. 2013 - March 2015
     i18n: company_b_date
   job:
-    detail: Master thesis
+    detail: Master degree in Computer Science
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Politecnico di Torino, Torino, Italy
+    i18n: company_b
+  desc:
+    detail: 
+    i18n: company_b_desc
+  date:
+    detail: Sept. 2012 - March 2015
+    i18n: company_b_date
+  job:
+    detail: Master degree in Software Engineering
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Politecnico di Torino, Torino, Italy
+    i18n: company_b
+  desc:
+    detail: 
+    i18n: company_b_desc
+  date:
+    detail: Sep. 2011 - July 2013
+    i18n: company_b_date
+  job:
+    detail: Course assistant
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Reale Mutua Assicurazioni, Torino, Italy
+    i18n: company_b
+  desc:
+    detail: 
+    i18n: company_b_desc
+  date:
+    detail: July 2012 - Oct. 2012
+    i18n: company_b_date
+  job:
+    detail: Tester web application front-end
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Softwaredue, Torino, Italy
+    i18n: company_b
+  desc:
+    detail: Java web application developer
+    i18n: company_b_desc
+  date:
+    detail: March 2012 - July 2012
+    i18n: company_b_date
+  job:
+    detail: Bachelor degree in Computer Engineering
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Politecnico di Torino, Torino, Italy
+    i18n: company_b
+  desc:
+    detail: 
+    i18n: company_b_desc
+  date:
+    detail: Sep. 2009 - July 2012
+    i18n: company_b_date
+  job:
+    detail: Bachelor degree in Computer Engineering
     i18n: company_b_job
   icon: fa-plus-square
