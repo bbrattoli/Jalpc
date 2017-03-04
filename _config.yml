@@ -1,7 +1,7 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: Brattoli
+title: Biagio Brattoli
 description: My website
 keywords: biagio,brattoli,computer,vision,science,machine,learning,heidelberg,university,PhD,deeplearning
 baseurl: /homepage #/Jalpc # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
@@ -18,7 +18,7 @@ cv:  # A online CV can be printed as PDF, leave blank if you don't have now
 email: biagio.brattoli@gmail.com  # Leave blank if you don't have now
 facebook_username: # Leave blank if you don't have now
 github_username: bbrattoli  # Leave blank if you don't have now
-avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
+avatar: /homepage/static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
 skill_icon1:
     - name: icon-apache
     - name: fa-linux
