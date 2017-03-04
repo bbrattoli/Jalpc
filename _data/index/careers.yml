@@ -88,13 +88,13 @@
     detail: Softwaredue, Torino, Italy
     i18n: company_b
   desc:
-    detail: Java web application developer
+    detail:
     i18n: company_b_desc
   date:
     detail: March 2012 - July 2012
     i18n: company_b_date
   job:
-    detail: Bachelor degree in Computer Engineering
+    detail: Java web application developer
     i18n: company_b_job
   icon: fa-plus-square
 
