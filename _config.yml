@@ -10,7 +10,7 @@ url: http://bbrattoli.github.io/homepage #/Jalpc  # url should be changed to 'ht
 img_path: /homepage/static/assets/img/blog  # url should be changed to '/homepage/static/assets/img/blog' as before
 
 # author -- index page "about me" section
-author: #Biagio Brattoli # change following line to your infomation.
+author:  # change following line to your infomation.
   name: Biagio  # Be used at blog posts' author.
   first_name: Biagio  # Be used at index page about me section.
   last_name: Brattoli  # Be used at index page about me section.
