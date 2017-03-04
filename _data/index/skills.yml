@@ -1,9 +1,9 @@
 # skills section data
 
-label: Languages
-id : cs2
-aspects: Python, Matlab, C++, Android, Java, R, PHP
-percentage: 90, 90, 50, 40, 40, 20, 20
+#label: Languages
+#id : cs
+#aspects: Python, Matlab, C++, Android, Java, R, PHP
+#percentage: 90, 90, 50, 40, 40, 20, 20
 
 label: Ability
 id : cs
