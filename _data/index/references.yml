@@ -1,0 +1,6 @@
+- name: Jalpc
+  i18n: jalpc
+  gh_user: jarrekk
+  repo: Jalpc
+  img: /static/assets/img/landing/jekyll.png
+  desc: This project is my project. I use javescript 
