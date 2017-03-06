@@ -18,6 +18,12 @@
   tpl: skills.html
   css: team
 
+- id: publications
+  i18n: nav.publications
+  name: Publications
+  tpl: publications.html
+  css:
+
 #- id: projects
 #  i18n: nav.projects
 #  name: Projects
