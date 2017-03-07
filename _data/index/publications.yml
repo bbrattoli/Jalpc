@@ -1,10 +1,10 @@
 # publications section data
 - name: LSTM Self-Supervision for Detailed Behavior Analysis
-  authors: B. Brattoli, U. Buechler, B. Ommer
+  authors: "B. Brattoli*, U. Buechler*, A. Wahl, M. Schwab, B. Ommer"
   year: 2017
   publisher: CVPR
   publisher_full: Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition
   desc: First publications
-  pdf: 
+  pdf:
   bibtex:
   poster:
