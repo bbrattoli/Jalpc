@@ -5,6 +5,7 @@
   publisher: CVPR
   publisher_full: Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition
   desc: First publications
+  github: https://github.com/bbrattoli/PermutationLSTM
   pdf:
   bibtex:
   poster:

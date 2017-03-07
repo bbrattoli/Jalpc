@@ -23,6 +23,12 @@
                 <li><a target="blank"><i class="fa fa-file-pdf-o"></i></a></li>
                 {% endif %}
 
+                {% if publication.github %}
+                <li><a href="{{ publication.github }}" target="blank"><i class="fa fa-github"></i></a></li>
+                {% else %}
+                <li><a target="blank"><i class="fa fa-github"></i></a></li>
+                {% endif %}
+
                 {% if publication.bibtex %}
                 <li><a href="{{ publication.bibtex }}" target="blank"><i class="fa fa-file-code-o"></i></a></li>
                 {% else %}
