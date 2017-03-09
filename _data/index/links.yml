@@ -1,15 +1,16 @@
 # links section data
+
+- last_name: Brattoli
+  first_name: Biagio
+  desc: PhD Student
+  website: https://bbrattoli.github.io/homepage/
+  email: biagio.brattoli@gmail.com
+
 - last_name: CompVis Group
-  first_name: 
+  first_name:
   desc: HCI, Heidelberg University
   website: https://hci.iwr.uni-heidelberg.de/compvis
   #email: ceo@google.com
-
-#- last_name: Name 1
-#  first_name:
-#  desc: CEO
-#  website: https://www.google.com
-#  email: ceo@google.com
 
 #- last_name: Donate
 #  first_name: Jalpc

@@ -1,10 +1,10 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: CompVis Group, Heidelberg University (Germany)
+    detail: CompVis Group, Heidelberg University, Germany
     i18n: company_a
   desc:
-    detail: 
+    detail:
     i18n: company_a_desc
   date:
     detail: Since June 2015
@@ -32,7 +32,7 @@
     detail: Royal Institute of Technology, Stockholm, Sweden
     i18n: company_b
   desc:
-    detail: 
+    detail:
     i18n: company_b_desc
   date:
     detail: Aug. 2013 - March 2015
@@ -46,7 +46,7 @@
     detail: Politecnico di Torino, Torino, Italy
     i18n: company_b
   desc:
-    detail: 
+    detail:
     i18n: company_b_desc
   date:
     detail: Sept. 2012 - March 2015
@@ -60,7 +60,7 @@
     detail: Politecnico di Torino, Torino, Italy
     i18n: company_b
   desc:
-    detail: 
+    detail:
     i18n: company_b_desc
   date:
     detail: Sep. 2011 - July 2013
@@ -74,7 +74,7 @@
     detail: Reale Mutua Assicurazioni, Torino, Italy
     i18n: company_b
   desc:
-    detail: 
+    detail:
     i18n: company_b_desc
   date:
     detail: July 2012 - Oct. 2012
@@ -102,7 +102,7 @@
     detail: Politecnico di Torino, Torino, Italy
     i18n: company_b
   desc:
-    detail: 
+    detail:
     i18n: company_b_desc
   date:
     detail: Sep. 2009 - July 2012
