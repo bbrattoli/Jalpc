@@ -29,7 +29,7 @@
   pdf: http://journals.sagepub.com/doi/abs/10.1177/0271678X18777661
   bibtex: https://hci.iwr.uni-heidelberg.de/biblio/export/bibtex/6254
   poster:
-- name: 
+- name: Improving Spatiotemporal Self-Supervision by Deep Reinforcement Learning
   authors: "B. Brattoli*, U. Buechler*, B. Ommer"
   year: 2018
   publisher: ECCV
