@@ -36,6 +36,26 @@
   publisher_full: Proceedings of the European Conference on Computer Vision
   desc: 
   github: 
+  pdf: https://arxiv.org/abs/1807.11293v1
+  bibtex: 
+  poster:
+- name: Cross and Learn: Cross-Modal Self-Supervision
+  authors: "N. Sayer, B. Brattoli, B. Ommer"
+  year: 2018
+  publisher: GCPR
+  publisher_full: German Association for Pattern Recognition
+  desc: 
+  github: 
+  pdf: 
+  bibtex: 
+  poster:
+- name: X-GAN: Improving Generative Adversarial Networks with ConveX Combinations
+  authors: "O. Blum, B. Brattoli, B. Ommer"
+  year: 2018
+  publisher: GCPR
+  publisher_full: German Association for Pattern Recognition
+  desc: 
+  github: 
   pdf: 
   bibtex: 
   poster:
