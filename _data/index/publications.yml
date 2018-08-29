@@ -9,7 +9,7 @@
   pdf: https://arxiv.org/abs/1807.11293v1
   bibtex: 
   poster:
-- name: Cross and Learn: Cross-Modal Self-Supervision
+- name: "Cross and Learn: Cross-Modal Self-Supervision"
   authors: "N. Sayer, B. Brattoli, B. Ommer"
   year: 2018
   publisher: GCPR
@@ -19,7 +19,7 @@
   pdf: 
   bibtex: 
   poster:
-- name: X-GAN: Improving Generative Adversarial Networks with ConveX Combinations
+- name: "X-GAN: Improving Generative Adversarial Networks with ConveX Combinations"
   authors: "O. Blum, B. Brattoli, B. Ommer"
   year: 2018
   publisher: GCPR
