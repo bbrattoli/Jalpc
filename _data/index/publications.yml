@@ -1,34 +1,4 @@
 # publications section data
-- name: LSTM Self-Supervision for Detailed Behavior Analysis
-  authors: "B. Brattoli*, U. Buechler*, A. Wahl, M. Schwab, B. Ommer"
-  year: 2017
-  publisher: CVPR
-  publisher_full: Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition
-  desc: 
-  github: https://github.com/bbrattoli/PermutationLSTM
-  pdf: https://hci.iwr.uni-heidelberg.de/node/6137
-  bibtex: https://hci.iwr.uni-heidelberg.de/biblio/export/bibtex/6137
-  poster:
-- name: Optogenetically stimulating intact rat corticospinal tract post-stroke restores motor control through regionalized functional circuit formation
-  authors: "A. S. Wahl*, U. Büchler*, A. Brändli, B. Brattoli, S. Musall, H. Kasper, B. V. Ineichen, F. Helmchen, B. Ommer & M. E. Schwab"
-  year: 2017
-  publisher: Nature Communications
-  publisher_full: Communications
-  desc: 
-  github: 
-  pdf: https://www.nature.com/articles/s41467-017-01090-6
-  bibtex: https://hci.iwr.uni-heidelberg.de/biblio/export/bibtex/6188
-  poster:
-- name: Early reduced behavioral activity induced by large strokes affects the efficiency of enriched environment in rats
-  authors: "A. S. Wahl, Erlebach, E, B. Brattoli, U. Büchler,  J. Kaiser, V.B. Ineichen, A.C. Mosberger, S. Schneeberger, S. Imobersteg, M. Wieckhorst, M. Stirn, A. Schroeter, B. Ommer, M.E. Schwab"
-  year: 2018
-  publisher: Journal of Cerebral Blood Flow & Metabolism
-  publisher_full: Journal of Cerebral Blood Flow & Metabolism
-  desc: 
-  github: 
-  pdf: http://journals.sagepub.com/doi/abs/10.1177/0271678X18777661
-  bibtex: https://hci.iwr.uni-heidelberg.de/biblio/export/bibtex/6254
-  poster:
 - name: Improving Spatiotemporal Self-Supervision by Deep Reinforcement Learning
   authors: "B. Brattoli*, U. Buechler*, B. Ommer"
   year: 2018
@@ -58,4 +28,34 @@
   github: 
   pdf: 
   bibtex: 
+  poster:
+- name: LSTM Self-Supervision for Detailed Behavior Analysis
+  authors: "B. Brattoli*, U. Buechler*, A. Wahl, M. Schwab, B. Ommer"
+  year: 2017
+  publisher: CVPR
+  publisher_full: Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition
+  desc: 
+  github: https://github.com/bbrattoli/PermutationLSTM
+  pdf: https://hci.iwr.uni-heidelberg.de/node/6137
+  bibtex: https://hci.iwr.uni-heidelberg.de/biblio/export/bibtex/6137
+  poster:
+- name: Optogenetically stimulating intact rat corticospinal tract post-stroke restores motor control through regionalized functional circuit formation
+  authors: "A. S. Wahl*, U. Büchler*, A. Brändli, B. Brattoli, S. Musall, H. Kasper, B. V. Ineichen, F. Helmchen, B. Ommer & M. E. Schwab"
+  year: 2017
+  publisher: Nature Communications
+  publisher_full: Communications
+  desc: 
+  github: 
+  pdf: https://www.nature.com/articles/s41467-017-01090-6
+  bibtex: https://hci.iwr.uni-heidelberg.de/biblio/export/bibtex/6188
+  poster:
+- name: Early reduced behavioral activity induced by large strokes affects the efficiency of enriched environment in rats
+  authors: "A. S. Wahl, Erlebach, E, B. Brattoli, U. Büchler,  J. Kaiser, V.B. Ineichen, A.C. Mosberger, S. Schneeberger, S. Imobersteg, M. Wieckhorst, M. Stirn, A. Schroeter, B. Ommer, M.E. Schwab"
+  year: 2018
+  publisher: Journal of Cerebral Blood Flow & Metabolism
+  publisher_full: Journal of Cerebral Blood Flow & Metabolism
+  desc: 
+  github: 
+  pdf: http://journals.sagepub.com/doi/abs/10.1177/0271678X18777661
+  bibtex: https://hci.iwr.uni-heidelberg.de/biblio/export/bibtex/6254
   poster:
