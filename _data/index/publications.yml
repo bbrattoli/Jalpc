@@ -12,7 +12,7 @@
 - name: "Cross and Learn: Cross-Modal Self-Supervision"
   authors: "N. Sayer, B. Brattoli, B. Ommer"
   year: 2018
-  publisher: GCPR
+  publisher: GCPR Oral
   publisher_full: German Association for Pattern Recognition
   desc: 
   github: 
@@ -22,7 +22,7 @@
 - name: "X-GAN: Improving Generative Adversarial Networks with ConveX Combinations"
   authors: "O. Blum, B. Brattoli, B. Ommer"
   year: 2018
-  publisher: GCPR
+  publisher: GCPR Oral
   publisher_full: German Association for Pattern Recognition
   desc: 
   github: 
